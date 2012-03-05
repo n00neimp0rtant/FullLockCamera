@@ -1,0 +1,9 @@
+Package: com.n00neimp0rtant.fulllockcamera
+Name: FullLockCamera
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: full sharing/viewing in lock camera
+Maintainer: n00neimp0rtant
+Author: n00neimp0rtant
+Section: Tweaks
